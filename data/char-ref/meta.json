@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "charCount": 45807,
+  "shards": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "F"
+  ],
+  "sources": {
+    "unihan": true,
+    "moedict": true
+  },
+  "sourceDocs": "docs/char-reference-sources.md"
+}
