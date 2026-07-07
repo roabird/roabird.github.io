@@ -4,34 +4,49 @@
     "title": "道德經",
     "titleSimplified": "道德经",
     "summary": "老子五千言，闡述道法自然、無為而治之旨。",
-    "chapterCount": 81
+    "chapterCount": 81,
+    "sectionCount": 2,
+    "editionShort": "CText 通行本",
+    "editionShortSimplified": "CText 通行本"
   },
   {
     "id": "huangtingjing",
     "title": "黃庭經",
     "titleSimplified": "黄庭经",
     "summary": "道教存思修煉經典，述內景黃庭、養神煉气之法。",
-    "chapterCount": 4
+    "chapterCount": 60,
+    "sectionCount": 2,
+    "editionShort": "正統道藏本",
+    "editionShortSimplified": "正统道藏本"
   },
   {
     "id": "yinfujing",
     "title": "黃帝陰符經",
     "titleSimplified": "黄帝阴符经",
     "summary": "述天人合發、五賊在心之奧義，為道家術數之祖。",
-    "chapterCount": 11
+    "chapterCount": 11,
+    "sectionCount": 3,
+    "editionShort": "CText 通行本",
+    "editionShortSimplified": "CText 通行本"
   },
   {
     "id": "ganyingpian",
     "title": "太上感應篇",
     "titleSimplified": "太上感应篇",
     "summary": "勸善懲惡，明因果報應，為道教流傳甚廣之劝善書。",
-    "chapterCount": 8
+    "chapterCount": 5,
+    "sectionCount": 1,
+    "editionShort": "通行一千二百字本",
+    "editionShortSimplified": "通行一千二百字本"
   },
   {
     "id": "nanhuajing",
     "title": "南華經",
     "titleSimplified": "南华经",
     "summary": "莊子所著，以寓言阐逍遙齊物，為道家思想之極致。",
-    "chapterCount": 31
+    "chapterCount": 33,
+    "sectionCount": 3,
+    "editionShort": "郭象本·三十三篇",
+    "editionShortSimplified": "郭象本·三十三篇"
   }
 ]
