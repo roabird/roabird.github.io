@@ -30,6 +30,16 @@
     "editionShortSimplified": "CText 通行本"
   },
   {
+    "id": "qingjingjing",
+    "title": "清靜經",
+    "titleSimplified": "清静经",
+    "summary": "述清靜無為、遣欲澄心之要，為道教入門經典。",
+    "chapterCount": 5,
+    "sectionCount": 2,
+    "editionShort": "正統道藏本",
+    "editionShortSimplified": "正统道藏本"
+  },
+  {
     "id": "ganyingpian",
     "title": "太上感應篇",
     "titleSimplified": "太上感应篇",
