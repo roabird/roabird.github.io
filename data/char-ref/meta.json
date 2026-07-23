@@ -1,6 +1,9 @@
 {
   "version": 1,
-  "charCount": 45808,
+  "charCount": 46048,
+  "definedCount": 15365,
+  "moedictCount": 15110,
+  "aliasCount": 52,
   "shards": [
     "2",
     "3",
